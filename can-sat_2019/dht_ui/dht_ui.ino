@@ -1,0 +1,30 @@
+#include "DHT.h"  //--> Include the DHT Sensor Library
+
+#define DHTTYPE DHT11 //--> Defines the type of DHT sensor used (DHT11, DHT21, and DHT22), in this project the sensor used is DHT11.
+const int DHTPin = 2; //--> The pin used for the DHT11
+DHT dht(DHTPin, DHTTYPE); //--> Initialize DHT sensor, DHT dht(Pin_used, Type_of_DHT_Sensor);
+
+//----------------------------------------Setup
+void setup(){
+  Serial.begin(9600);
+  delay(100);
+  dht.begin();  //--> Start reading DHT11 sensors
+}
+
+//----------------------------------------Loop
+void loop(){
+  
+  int humidity = dht.readHumidity();  //--> Read humidity
+  float temperature = dht.readTemperature();  //--> Read temperature as Celsius (the default). If you want to read the temperature sensor in Fahrenheit, use this -> float t = dht.readTemperature (true);
+  
+  if (isnan(humidity) || isnan(temperature)) { //--> Check if any reads failed and exit early (to try again).  
+    Serial.println("Failed to read from DHT sensor!");
+  }
+  else {
+    Serial.print("H");
+    Serial.println(humidity);
+    Serial.print("T");
+    Serial.println(temperature);
+  }
+  delay(400);  //--> The value is the same as the interval value in the TimerSerial in the VB application
+}

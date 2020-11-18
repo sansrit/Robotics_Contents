@@ -1,0 +1,53 @@
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+D:\downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+D:\downloads\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbprojAssemblyReference.cache
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.cache
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CoreCompileInputs.cache
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\downloads\SerialCom\SerialCom\SerialCom\bin\Debug\CircularProgressBar.dll
+D:\downloads\SerialCom\SerialCom\SerialCom\bin\Debug\WinFormAnimation.dll
+D:\downloads\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CopyComplete
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\bin\Debug\CircularProgressBar.dll
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\bin\Debug\WinFormAnimation.dll
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CopyComplete
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\User\Desktop\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbprojAssemblyReference.cache
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.CopyComplete
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\Admin\Documents\can-sat_2019\VBGUI\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
